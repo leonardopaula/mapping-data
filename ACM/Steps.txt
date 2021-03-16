@@ -7,5 +7,17 @@ Search string:
 
 
 Steps:
-	1. Insert search string in the "Search" field.
-	2. 
+	1. Insert search string in the "Search" field;
+		Returned 12,638 results;
+	2. Applyed filter Media Formats > PDF;
+		Returned 12,543 results;
+	3. Applyed filter Content Type > Research Article;
+		Returned 9,118 results;
+
+	Filter date applyed at ACM: 2010 to 2021
+	8,518 results
+
+	setted results per page: 50
+	ordened by earliest
+
+Selected all articles and exported Citations (BibTex).
