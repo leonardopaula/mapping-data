@@ -1,0 +1,11 @@
+Base: ACM (https://dl.acm.org)
+Date: 15/03/2021
+Search string:
+(anxiety OR stress OR worries OR fear OR restlessness OR anxious OR distress) AND 
+("big data" OR "machine learning" OR "data analysis" OR "data analytics" OR "data statistics" OR "data mining") AND
+("ubiquitous computing" OR "pervasive computing" OR monitoring OR tracking OR IOT OR "Internet of things")
+
+
+Steps:
+	1. Insert search string in the "Search" field.
+	2. 
