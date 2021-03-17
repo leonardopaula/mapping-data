@@ -1,0 +1,64 @@
+Provider: American Psychological Association
+Database: PsycINFO
+Content: application/x-research-info-systems
+
+TY  - JOUR
+PMID  - 29878800
+ID  - 2018-25403-001
+T1  - A glucocorticoid receptor antagonist reduces sign-tracking behavior in male Japanese quail.
+JF  - Experimental and Clinical Psychopharmacology
+A1  - Rice, Beth Ann
+A1  - Eaton, Shannon E.
+A1  - Prendergast, Mark A.
+A1  - Akins, Chana K.
+VL  - 26
+IS  - 4
+SP  - 329
+EP  - 334
+Y1  - 2018
+CY  - US
+AD  - Rice, Beth Ann: Department of Psychology, University of Kentucky, Kastle Hall, 171 Funkhouser Dr., Lexington, KY, US, 40506, bethannrice@uky.edu
+PB  - American Psychological Association
+SN  - 1936-2293(Electronic),1064-1297(Print)
+N2  - Addiction is characterized as a chronic debilitating disease. One devastating feature of addiction is the susceptibility of relapse (40–60%) after stretches of abstinence. One theory that may account for relapse suggests that drug cues (e.g., paraphernalia) may increase stress hormones, and this may prompt relapse. Repeatedly pairing a neutral cue with a reward is commonly utilized to measure what subjects learn about a cue that is predictive of reward. Research has shown that animals that attend to a cue more than to the reward (sign trackers) may be more vulnerable to drug addiction. Additionally, research has shown that sign tracking is associated with an increase in corticosterone, a primary stress hormone. PT150 is a novel glucocorticoid receptor antagonist that moderates the release of corticosterone. In the current experiment, it was hypothesized that subjects given repeated administration of PT150 would reduce sign tracking compared to subjects given placebo. Time spent (in seconds) near a cue that predicts reward (conditional stimulus) served as a measure of sign tracking, and PT150 or placebo was administered following sign tracking. An independent-samples t test revealed that subjects that received PT150 had reduced time spent near the conditioned stimulus compared to controls. Given the devastating effects of drug addiction, identification of a potential pharmacological intervention in the reduction of relapse would be of great value. Therefore, future research is needed to validate the use of PT150 in reducing behaviors associated with drug addiction. (PsycINFO Database Record (c) 2018 APA, all rights reserved)
+KW  - *Addiction
+KW  - *Classical Conditioning
+KW  - *Corticosterone
+KW  - *Glucocorticoids
+KW  - *Stress
+KW  - Quails
+KW  - Rewards
+M3  - doi:10.1037/pha0000195
+DO  - 10.1037/pha0000195
+ER  -
+TY  - JOUR
+ID  - 2019-77500-002
+T1  - Personalized prognostic prediction of treatment outcome for depressed patients in a naturalistic psychiatric hospital setting: A comparison of machine learning approaches.
+JF  - Journal of Consulting and Clinical Psychology
+A1  - Webb, Christian A.
+A1  - Cohen, Zachary D.
+A1  - Beard, Courtney
+A1  - Forgeard, Marie
+A1  - Peckham, Andrew D.
+A1  - Björgvinsson, Thröstur
+VL  - 88
+IS  - 1
+SP  - 25
+EP  - 38
+Y1  - 2020
+CY  - US
+AD  - Webb, Christian A.: Department of Psychiatry, Harvard Medical School/McLean Hospital, 115 Mill Street, Belmont, MA, US, 02478, cwebb@mclean.harvard.edu
+PB  - American Psychological Association
+SN  - 1939-2117(Electronic),0022-006X(Print)
+N2  - Objective: Research on predictors of treatment outcome in depression has largely derived from randomized clinical trials involving strict standardization of treatments, stringent patient exclusion criteria, and careful selection and supervision of study clinicians. The extent to which findings from such studies generalize to naturalistic psychiatric settings is unclear. This study sought to predict depression outcomes for patients seeking treatment within an intensive psychiatric hospital setting and while comparing the performance of a range of machine learning approaches. Method: Depressed patients (N = 484; ages 18–72; 89% White) receiving treatment within a psychiatric partial hospital program delivering pharmacotherapy and cognitive behavioral therapy were split into a training sample and holdout sample. First, within the training sample, 51 pretreatment variables were submitted to 13 machine learning algorithms to predict, via cross-validation, posttreatment Patient Health Questionnaire–9 depression scores. Second, the best performing modeling approach (lowest mean squared error; MSE) from the training sample was selected to predict outcome in the holdout sample. Results: The best performing model in the training sample was elastic net regularization (ENR; MSE = 20.49, R2 = .28), which had comparable performance in the holdout sample (MSE = 11.26; R2 = .38). There were 14 pretreatment variables that predicted outcome. To demonstrate the translation of an ENR model to personalized prediction of treatment outcome, a patient-specific prognosis calculator is presented. Conclusions: Informed by pretreatment patient characteristics, such predictive models could be used to communicate prognosis to clinicians and to guide treatment planning. Identified predictors of poor prognosis may suggest important targets for intervention. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
+KW  - *Machine Learning
+KW  - *Major Depression
+KW  - *Psychiatric Hospitals
+KW  - *Treatment Outcomes
+KW  - *Precision Medicine
+KW  - Clinicians
+KW  - Prediction
+KW  - Prognosis
+M3  - doi:10.1037/ccp0000451
+DO  - 10.1037/ccp0000451
+ER  -

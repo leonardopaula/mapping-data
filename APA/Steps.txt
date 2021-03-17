@@ -1,5 +1,5 @@
-Base: ACM (https://dl.acm.org)
-Date: 15/03/2021
+Base: APA (https://psycnet.apa.org/search/basic)
+Date: 16/03/2021
 Search string:
 (anxiety OR stress OR worries OR fear OR restlessness OR anxious OR distress) AND 
 ("big data" OR "machine learning" OR "data analysis" OR "data analytics" OR "data statistics" OR "data mining") AND
@@ -7,17 +7,10 @@ Search string:
 
 
 Steps:
-	1. Insert search string in the "Search" field;
-		Returned 12,638 results;
-	2. Applyed filter Media Formats > PDF;
-		Returned 12,543 results;
-	3. Applyed filter Content Type > Research Article;
-		Returned 9,118 results;
-
-	Filter date applyed at ACM: 2010 to 2021
-	8,518 results
-
-	setted results per page: 50
-	ordened by earliest
+	1. Click in Basic Search;
+	2. Applied Search String;
+		Returned 104 results in PsycInfo and 3 in PsycArticles;
+	3. With date filter returned:
+		Returned 97 results in PsycInfo and 2 in PsycArticles;
 
 Selected all articles and exported Citations (BibTex).

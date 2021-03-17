@@ -1,0 +1,17 @@
+Base: PubMed (pubmed.ncbi.nlm.nih.gov)
+Date: 16/03/2021
+Search string:
+(anxiety OR stress OR worries OR fear OR restlessness OR anxious OR distress) AND 
+("big data" OR "machine learning" OR "data analysis" OR "data analytics" OR "data statistics" OR "data mining") AND
+("ubiquitous computing" OR "pervasive computing" OR monitoring OR tracking OR IOT OR "Internet of things")
+
+
+Steps:
+	1. Use regular string;
+		Returned 660 results;
+	2. Applyed filter Full Text;
+		Returned 622 results;
+
+	Filter date applyed: 2010 to 2021
+	548 results
+
